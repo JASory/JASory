@@ -1,8 +1,10 @@
-
-- I am currently working on JIT-Prime: constructing primality tests ahead-of-time
-- I am also working on rewriting uutils factor
-- I occasionally work on [gnome applications](https://gitlab.gnome.org/JASory)
-- And also [Debian](https://salsa.debian.org/JASory)
+Things I work on 
+- JIT-Prime: constructing primality tests ahead-of-time
+- uutils factor
+- [gnome applications](https://gitlab.gnome.org/JASory)
+- [Debian](https://salsa.debian.org/JASory)
+- Editing [Mathematics for Science Students](https://github.com/pelegs/maths_book)
+- Constructing Spreadsheet math library to replace LO and Gnumeric
 - You can contact me for review on number-theory libraries
 
 
