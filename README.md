@@ -4,7 +4,6 @@ Things I work on
 - [gnome applications](https://gitlab.gnome.org/JASory)
 - [Debian](https://salsa.debian.org/JASory)
 - Editing [Mathematics for Science Students](https://github.com/pelegs/maths_book)
-- Constructing Spreadsheet math library to replace LO and Gnumeric
 - You can contact me for review on number-theory libraries
 
 
