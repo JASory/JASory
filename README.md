@@ -1,5 +1,5 @@
 Things I work on 
-- JIT-Prime: constructing primality tests ahead-of-time
+- Primality testing
 - Fermat base selection
 - [gnome applications](https://gitlab.gnome.org/JASory)
 - [Debian](https://salsa.debian.org/JASory)
